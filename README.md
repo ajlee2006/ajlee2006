@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Andrew, a student in Singapore, but my username is AndewMole on most sites. I can program in Python (which I use most) as well as basic Java and HTML/CSS/JS (if I'm forced to lol). I'm not very active here but I do make some small stuff on [replit](https://replit.com/@AJLee/). I know a bit of toki pona and Esperanto too
+
+[Subscribe to my YouTube channel](https://youtube.com/andewmole) where I write/arrange music and other stuff
+
 <!--
 **ajlee2006/ajlee2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
